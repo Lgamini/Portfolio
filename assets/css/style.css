@@ -111,6 +111,15 @@ nav a:first-child {
   border-left: 0 none;
 }
 
+i {
+  font-size: 50px;
+  color: #ffffff;
+}
+
+#social-icons {
+  text-align: center;
+}
+
 /* footer */
 
 footer {
